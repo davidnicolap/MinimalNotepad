@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "user": "Davidut",
+      "pass": "merge",
+      "notepad": "Ana are pere!"
+    },
+    {
+      "user": "dav",
+      "pass": "dav",
+      "notepad": "hello",
+      "id": "SyHU8Uk"
+    },
+    {
+      "user": "dav2",
+      "pass": "dav2",
+      "notepad": "dav2dav2",
+      "id": "6pOzTgA"
+    },
+    {
+      "user": "david",
+      "pass": "david",
+      "notepad": "spala rufe\nmananca bine\nmergi la sala",
+      "id": "_PpRfTi"
+    }
+  ]
+}

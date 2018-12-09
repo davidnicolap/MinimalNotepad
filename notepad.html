@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Minimal notepad - My notepad</title>
+    <link rel="stylesheet" href="notepad_style.css">
+</head>
+<body onload="checkIfUserIsLoggedIn()">
+   <textarea id="notepad" oninput="updateNotepad()"></textarea>
+   <button onclick="signout()">Sign out</button>
+   <script src="script2.js"></script>
+</body>
+</html>
